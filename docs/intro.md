@@ -2,46 +2,22 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# UIUC Guide Intro
 
-Let's discover **Docusaurus in less than 5 minutes**.
+## Who is this guide for
 
-## Getting Started
+This guide is intended for **students that are new to the University of Illinois at Urbana-Champaign** and want to learn a bit more about UIUC before choosing to accept the offer to attend.
 
-Get started by **creating a new site**.
+There may be some portions that are **a bit more geared towards the Computer Science and/or the out of state experience** here. If you are not a out of state CS student, you'll probably skip a few things; sorry.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## Why I created this guide
 
-### What you'll need
+If you were like me, this is probably your first time moving to a new state without family/friends nearby. No one from my high school attended UIUC during my year.
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+**You have to make an active effort to learn about some resources that a lot of others may already know** just by having family or friends that went here before. **I want to make all these resources known** before you start attending.
 
-## Generate a new site
+## Feedback
 
-Generate a new Docusaurus site using the **classic template**.
+If you are a current or previous UIUC student, please feel free to add any changes! I'm especially looking for those who come from different backgrounds (different majors, in state, international, gender) to add their experiences and knowledge.
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+There should be an `Edit this page` link below, that allows you to request any changes you want.
